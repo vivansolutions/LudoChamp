@@ -1,0 +1,8 @@
+name: ludo_champ
+version: 1.0.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.4
+  provider: ^6.0.0
